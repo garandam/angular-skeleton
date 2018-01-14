@@ -1,5 +1,7 @@
 # AngularSkeleton
 
+[![Build Status](https://travis-ci.org/garandam/angular-skeleton.svg?branch=master)](https://travis-ci.org/garandam/angular-skeleton)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/garandam/angular-skeleton.svg)](https://greenkeeper.io/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
